@@ -228,7 +228,7 @@ fieldset {
 
 .wrapper {
   position: relative;
-  max-width: 1800px;
+  
   min-height: 100%;
   margin: 0 auto;
   overflow: hidden;
